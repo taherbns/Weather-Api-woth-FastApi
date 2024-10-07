@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Move into the correct directory where the FastAPI app is located
 
