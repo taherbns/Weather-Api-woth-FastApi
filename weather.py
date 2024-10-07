@@ -44,7 +44,7 @@ async def get_info():
     # Get weather data
     weather = get_weather()
     
-    # Return date, time, and weather data
+    # Return date, time, and weather dataa
     return {
         "date": formatted_date,
         "time": formatted_time,
